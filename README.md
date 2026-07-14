@@ -1,10 +1,11 @@
-# image_filters
-matrix operations to apply filters to images<br>
-using numpy in python<br>
-# filters
-sobel filter<br>
-blur filter<br>
-monochrome filter<br>
-vertical edge detector<br>
-hotrizontal edge dector<br>
-negative image filter<br>
+# Image Filters
+matrix operations to apply filters to images using numpy in python
+
+
+# filter List
+- sobel filter
+- blur filter
+- monochrome filter
+- vertical edge detector
+- hotrizontal edge dector
+- negative image filter
