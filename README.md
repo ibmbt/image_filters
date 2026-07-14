@@ -15,19 +15,29 @@ A command-line utility for applying convolution matrices and standard image proc
 
 Install the required libraries:
 
-```pip install opencv-python numpy```
+```bash
+pip install opencv-python numpy
+```
 
 ## Usage
 
 Execute the program directly from the terminal by passing the input image path and the target filter name.
 
 Syntax:
-```python main.py <path_to_image> <filter_name>```
+``` bash
+python main.py <path_to_image> <filter_name>
+```
 
 Examples:
-```python main.py flowers.jpg sobel```
-```python main.py flowers.jpg blur```
-```python main.py flowers.jpg vertical_edge```
+``` bash
+python main.py flowers.jpg sobel
+```
+```bash 
+python main.py flowers.jpg blur
+```
+``` bash
+python main.py flowers.jpg vertical_edge
+```
 
 ## Available Filters
 
